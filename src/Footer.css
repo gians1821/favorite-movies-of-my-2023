@@ -1,0 +1,11 @@
+.footer {
+    text-align: center;
+}
+
+.footer-text {
+    color: var(--white);
+}
+
+.footer-link {
+    color: var(--light-color);
+}

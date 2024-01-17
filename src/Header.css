@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+    color: var(--white);
+}
+
+.header-title {
+    padding: 28px 0px;
+    font-weight: 800;
+    width: 80%;
+    margin: auto;
+}
+
+.header-subtitle {
+    font-weight: 600;
+    width: 80%;
+    line-height: 125%;
+    margin: auto;
+    margin-bottom: 8px;
+}
+
+.header-description {
+    font-style: italic;
+    font-weight: 300;
+    width: 80%;
+    margin: auto;
+}

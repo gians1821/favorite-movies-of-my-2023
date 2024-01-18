@@ -1,6 +1,6 @@
 :root {
   --primary-color: #022859;
-  --secondary-color: #0c6094;
+  --secondary-color: #0f72b0;
   --box-color: #6289bb;
   --light-color: #ACCAF2;
   --white: #fff7f7;
@@ -11,8 +11,4 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "DM Sans", sans-serif;
-}
-
-li {
-  display: block;
 }

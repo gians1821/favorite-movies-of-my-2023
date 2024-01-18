@@ -6,5 +6,5 @@
 }
 
 body {
-    background: linear-gradient(to bottom right, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(to top right, var(--primary-color), var(--secondary-color));
 }

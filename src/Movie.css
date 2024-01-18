@@ -1,0 +1,15 @@
+.movie {
+    background: var(--box-color);
+    padding: 8px;
+}
+
+.movie-title {
+    padding-top: 8px;
+    font-weight: 700;    
+}
+
+.movie-img {
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: contain;
+}

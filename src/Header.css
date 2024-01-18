@@ -4,18 +4,10 @@
 }
 
 .header-title {
-    padding: 28px 0px;
+    padding: 28px 0px 4px 0px;
     font-weight: 800;
     width: 80%;
     margin: auto;
-}
-
-.header-subtitle {
-    font-weight: 600;
-    width: 80%;
-    line-height: 125%;
-    margin: auto;
-    margin-bottom: 8px;
 }
 
 .header-description {

@@ -8,7 +8,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/scrollbar';
 
-import './styles.css';
+import './SwiperContainer.css';
 
 // import required modules
 import { Scrollbar } from 'swiper/modules';

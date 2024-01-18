@@ -1,4 +1,4 @@
-import { SwiperContainer } from './SwiperContainer.jsx';
+import { RankingSection } from './RankingSection.jsx';
 import './Main.css'
 
 const dataMovies = [
@@ -84,17 +84,9 @@ const dataSeries = [
 function Main() {
     
     return (
-        <main className="Main">
-            <h2 className="main-title">PELÍCULAS</h2>
-            <section className='main-carrusel'>
-                <SwiperContainer data={dataMovies} />
-            </section>
-            
-
-            <h2 className="main-title">SERIES</h2>
-            <section>
-                <SwiperContainer data={dataSeries} />
-            </section>
+        <main className='main'>
+            <RankingSection name='PELÍCULAS' data={dataMovies} />
+            <RankingSection name='SERIES' data={dataSeries} />
         </main>
     );
 }

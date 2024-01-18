@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favorite-movies-of-my-2023/static/css/main.56238f07.css",
+    "main.js": "/favorite-movies-of-my-2023/static/js/main.b31362fb.js",
+    "index.html": "/favorite-movies-of-my-2023/index.html",
+    "main.56238f07.css.map": "/favorite-movies-of-my-2023/static/css/main.56238f07.css.map",
+    "main.b31362fb.js.map": "/favorite-movies-of-my-2023/static/js/main.b31362fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56238f07.css",
+    "static/js/main.b31362fb.js"
+  ]
+}
